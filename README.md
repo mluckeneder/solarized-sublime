@@ -9,7 +9,7 @@ A Solarized theme (and color scheme) for Sublime Text 2.
 To install in Sublime Text 2, ```$ cd``` into your Packages directory. If you're on a Mac, this is probably something like:
 
 ```bsh
-$ cd ~/Library/Application Support/Sublime Text 2/Packages
+$ cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages
 ```
 
 Then clone the repo:
