@@ -15,7 +15,7 @@ $ cd ~/Library/Application Support/Sublime Text 2/Packages
 Then clone the repo:
 
 ```bsh
-$ git clone git@github.com:paulcpederson/solarized-sublime.git Theme\ -\ Solarized/
+$ git clone https://github.com/mluckeneder/solarized-sublime.git Theme\ -\ Solarized/
 ```
 
 The ```Theme\ -\ Solarized/``` bit just names the folder "Theme - Solarized" to keep it inline with Sublime Text's theme naming conventions.
