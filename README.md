@@ -9,13 +9,13 @@ A Solarized theme (and color scheme) for Sublime Text 2.
 To install in Sublime Text 2, ```$ cd``` into your Packages directory. If you're on a Mac, this is probably something like:
 
 ```bsh
-$ cd ~/Library/Application Support/Sublime Text 2/Packages
+$ cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages
 ```
 
 Then clone the repo:
 
 ```bsh
-$ git clone git@github.com:paulcpederson/solarized-sublime.git Theme\ -\ Solarized/
+$ git clone https://github.com/paulcpederson/solarized-sublime.git Theme\ -\ Solarized/
 ```
 
 The ```Theme\ -\ Solarized/``` bit just names the folder "Theme - Solarized" to keep it inline with Sublime Text's theme naming conventions.
