@@ -455,51 +455,6 @@
     },
 
 //
-// STANDARD SCROLLBARS
-//
-
-    // Standard vertical scroll bar
-    {
-        "class": "scroll_bar_control",
-        // "layer0.texture": "Theme - Solarized/Solarized Dark/standard-scrollbar-vertical.png",
-        "layer0.opacity": 1.0,
-        "layer0.inner_margin": [2, 6],
-        "blur": false
-    },
-    // Standard horizontal scroll bar
-    {
-        "class": "scroll_bar_control",
-        "attributes": ["horizontal"],
-        "layer0.texture": "Theme - Solarized/Solarized Dark/standard-scrollbar-horizontal.png",
-        "layer0.inner_margin": [6, 2],
-        "blur": false
-    },
-    // Standard scroll bar corner
-    {
-        "class": "scroll_corner_control",
-        "layer0.texture": "Theme - Solarized/Solarized Dark/standard-scrollbar-corner.png",
-        "layer0.inner_margin": [2, 2],
-        "layer0.opacity": 1.0
-    },
-    // Standard vertical scroll puck
-    {
-        "class": "puck_control",
-        "layer0.texture": "Theme - Solarized/Solarized Dark/standard-puck-vertical.png",
-        "layer0.opacity": 1.0,
-        "layer0.inner_margin": [0, 10],
-        "content_margin": [8, 12],
-        "blur": false
-    },
-    // Standard horizontal scroll puck
-    {
-        "class": "puck_control",
-        "attributes": ["horizontal"],
-        "layer0.texture": "Theme - Solarized/Solarized Dark/standard-puck-horizontal.png",
-        "layer0.inner_margin": [10, 0],
-        "content_margin": [12, 8],
-        "blur": false
-    },
-
 // SIDEBAR - GENERAL FILE ICONS
 //
 
